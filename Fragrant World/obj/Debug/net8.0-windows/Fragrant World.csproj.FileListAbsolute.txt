@@ -1,0 +1,73 @@
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Fragrant World.exe
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Fragrant World.deps.json
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Fragrant World.runtimeconfig.json
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Fragrant World.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Fragrant World.pdb
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\System.ClientModel.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.csproj.AssemblyReference.cache
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\App.g.cs
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World_MarkupCompile.cache
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World_MarkupCompile.lref
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\MainWindow.baml
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.g.resources
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.GeneratedMSBuildEditorConfig.editorconfig
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.AssemblyInfoInputs.cache
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.AssemblyInfo.cs
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.csproj.CoreCompileInputs.cache
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.csproj.CopyComplete
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\refint\Fragrant World.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.pdb
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.genruntimeconfig.cache
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\ref\Fragrant World.dll
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\App.baml
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Pages\AuthPage.g.cs
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Pages\AuthPage.baml
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Pages\StorePage.g.cs
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Pages\StorePage.baml
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Pages\CheckoutPage.g.cs
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Pages\CheckoutPage.baml
