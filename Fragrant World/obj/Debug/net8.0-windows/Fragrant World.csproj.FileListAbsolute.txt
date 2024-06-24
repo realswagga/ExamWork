@@ -71,3 +71,4 @@ F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Pages\
 F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Pages\StorePage.baml
 F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Pages\CheckoutPage.g.cs
 F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Pages\CheckoutPage.baml
+F:\0_FINALEXAM\Fragrant World App\Fragrant World\obj\Debug\net8.0-windows\Fragrant World.sourcelink.json

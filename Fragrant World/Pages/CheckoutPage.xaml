@@ -17,11 +17,11 @@
             </Grid.RowDefinitions>
             <Grid>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="Auto"/>
-                    <ColumnDefinition/>
-                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto" MinWidth="206"/>
+                    <ColumnDefinition Width="173*"/>
+                    <ColumnDefinition Width="224*"/>
                 </Grid.ColumnDefinitions>
-                <Border Grid.Column="0" Height="45" Width="200" HorizontalAlignment="Left" CornerRadius="10" Margin="5 0 0 0">
+                <Border Grid.Column="0" Width="200" HorizontalAlignment="Left" CornerRadius="10" Margin="5,9,0,9">
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/Images/logo.png" HorizontalAlignment="Left" Height="30" Margin="5 0 0 0"/>
                         <Label Content="Ароматный Мир" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="7.5 0 0 0"/>
@@ -37,7 +37,7 @@
                         </Style>
                     </Border.Style>
                 </Border>
-                <Border Grid.Column="1" Grid.ColumnSpan="2" Height="45" Width="789" Background="#FFCC99" CornerRadius="10" HorizontalAlignment="Left" Margin="5 0 5 0">
+                <Border Grid.Column="1" Width="789" Background="#FFCC99" CornerRadius="10" HorizontalAlignment="Left" Margin="5,9,0,9" Grid.ColumnSpan="2">
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
                         <Label x:Name="UserNameLabel" VerticalAlignment="Center" FontSize="16" FontFamily="Cascadia Code SemiBold"/>
                         <Image x:Name="CartImage" Source="/Images/user.png" Height="33" Margin="0 0 2 0">
@@ -50,17 +50,17 @@
                                 <DropShadowEffect Color="Black" BlurRadius="4" ShadowDepth="2" Opacity="0.3" Direction="240"/>
                             </Image.Effect>
                         </Image>
-                        <Image Source="/Pages/shopping_cart.png" Height="30" Style="{StaticResource HoverImage}" MouseDown="GoBackImage_MouseDown">
-                            <Image.Effect>
-                                <DropShadowEffect Color="Black" BlurRadius="4" ShadowDepth="2" Opacity="0.3" Direction="240"/>
-                            </Image.Effect>
-                        </Image>
                     </StackPanel>
                     <Border.Effect>
                         <DropShadowEffect Color="Black" ShadowDepth="3" BlurRadius="15" Opacity="0.1"/>
                     </Border.Effect>
                 </Border>
             </Grid>
+            <Label Content="Корзина" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="26" Grid.Row="1" Margin="15 -52.5 0 0">
+                <Label.Effect>
+                    <DropShadowEffect BlurRadius="15" Opacity="0.1" Color="Black"/>
+                </Label.Effect>
+            </Label>
         </Grid>
     </Grid>
 </Page>

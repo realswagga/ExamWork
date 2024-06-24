@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Fragrant_World.Classes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,6 +25,7 @@ namespace Fragrant_World.Pages
         {
             InitializeComponent();
             Style = (Style)FindResource(typeof(Page));
+            UserNameLabel.Content = $"{UserDataBus.Surname} {UserDataBus.Name} {UserDataBus.Patronymic}";
         }
 
         private void GoBackImage_MouseDown(object sender, MouseButtonEventArgs e)
